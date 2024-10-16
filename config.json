@@ -1,0 +1,31 @@
+{
+  "mapData": {
+    "url": "/home/kmarszal/Documents/dev/avgvis/view/resources/map.jpg",
+    "x": 0.0,
+    "y": 0.0,
+    "width": 23.0,
+    "height": 46.5
+  },
+  "objects": [
+    {
+      "name": "AGV 1",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "not_used",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    }
+  ]
+}

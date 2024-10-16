@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\simulation",
+    "\\simulation\\experiments",
+    "\\simulation\\experiments\\using_branches",
+    "\\simulation\\experiments\\using_branches\\agv_random_task_scheduling",
+    "\\simulation\\experiments\\using_branches\\agv_random_task_scheduling\\short_service_many_agvs_with_branches_k1",
+    "\\simulation\\experiments\\using_branches\\agv_random_task_scheduling\\short_service_many_agvs_with_branches_k1\\geneticAlgorithm",
+    "\\simulation\\experiments\\using_branches\\agv_random_task_scheduling\\short_service_many_agvs_with_branches_k3",
+    "\\simulation\\experiments\\without_branches",
+    "\\simulation\\experiments\\without_branches\\agv_random_task_scheduling"
+  ],
+  "SelectedNode": "\\simulation\\experiments\\using_branches",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,32 @@
+{
+	"mapData": {
+		"url": "/home/kmarszal/Documents/dev/avgvis/view/resources/map.jpg",
+		"x": 0,
+		"y": 0,
+		"width": 23,
+		"height": 46.5
+	},
+	"objects": [
+		{
+			"name": "AGV 1",
+			"sourceType": "OPC",
+			"connectionString": "opc.tcp://157.158.57.220:48040",
+			"width": 2,
+			"height": 2,
+			"frontLidarRange": 1,
+			"rearLidarRange": 1,
+			"type": "AGV",
+			"xSignal": "4:Forbot_History/4:FH_ID_6000/4:[NNS] - Natural Navigation Signals/2:X-coordinate",
+			"ySignal": "4:Forbot_History/4:FH_ID_6000/4:[NNS] - Natural Navigation Signals/2:Y-coordinate",
+			"headingSignal": "4:Forbot_History/4:FH_ID_6000/4:[NNS] - Natural Navigation Signals/2:Heading",
+			"updateInterval": 0.1,
+			"properties" : {
+				"battery" : "4:Forbot_History/4:FH_ID_6000/4:[ENS] - Energy Signals/2:SOC - State Of Charge"
+			},
+			"alerts": {
+				"information": "4:Forbot_History/4:FH_ID_6000/4:[AI] - ALARM INFORMATION",
+				"warnings": "4:Forbot_History/4:FH_ID_6000/4:[WI] - WARNING INFORMATION"
+			}
+		}
+	]
+}

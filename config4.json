@@ -1,0 +1,151 @@
+{
+  "mapData": {
+    "url": "/home/kmarszal/Documents/dev/avgvis/view/resources/map.jpg",
+    "x": 0.0,
+    "y": 0.0,
+    "width": 23.0,
+    "height": 46.5
+  },
+  "objects": [
+    {
+      "name": "AGV 1",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48040",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    },
+    {
+      "name": "AGV 6",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48041",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    },
+    {
+      "name": "AGV 7",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48042",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    },
+    {
+      "name": "AGV 8",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48043",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    },
+    {
+      "name": "AGV 9",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48044",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    },
+    {
+      "name": "AGV 10",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48045",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    },
+    {
+      "name": "AGV 11",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "opc.tcp://157.158.57.220:48046",
+      "width": "2.0",
+      "height": "2.0",
+      "frontLidarRange": "1.0",
+      "rearLidarRange": "1.0",
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "information": "information_root",
+        "warnings": "warnings_root"
+      },
+      "updateInterval": "0.1"
+    }
+  ]
+}

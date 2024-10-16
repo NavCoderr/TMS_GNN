@@ -1,0 +1,8 @@
+Starting TMS with MES: localhost:1234, simulation MES: localhost:1234 and AGV controller: localhost:60000
+SIGINT or SIGTERM handled
+Starting TMS with MES: localhost:1234, simulation MES: localhost:1234 and AGV controller: localhost:60000
+SIGINT or SIGTERM handled
+Starting TMS with MES: localhost:1234, simulation MES: localhost:12345 and AGV controller: localhost:60000
+SIGINT or SIGTERM handled
+Starting TMS with MES: localhost:1234, simulation MES: localhost:12345 and AGV controller: localhost:60000
+SIGINT or SIGTERM handled

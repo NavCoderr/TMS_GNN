@@ -1,0 +1,42 @@
+{
+  "mapData": {
+    "url": "/home/kmarszal/Documents/dev/avgvis/view/resources/map.jpg",
+    "x": 0,
+    "y": 0,
+    "width": 23,
+    "height": 46.5
+  },
+  "objects": [
+    {
+      "name": "agv1",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "who knows",
+      "width": 1.0,
+      "height": 2.0,
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "heading",
+      "properties": {
+        "battery": "battery"
+      },
+      "alerts": {
+        "warnings": "warnings",
+        "information": "information"
+      },
+      "updateInterval": 0.1
+    },
+    {
+      "name": "agv2",
+      "sourceType": "FAKE_OPC",
+      "connectionString": "not used",
+      "width": 2.0,
+      "height": 2.0,
+      "xSignal": "x",
+      "ySignal": "y",
+      "headingSignal": "sd",
+      "properties": {},
+      "alerts": {},
+      "updateInterval": 0.1
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Tasks number: 100
+AGVs number: 50
+Stations Number: 10

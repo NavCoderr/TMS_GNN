@@ -1,0 +1,8 @@
+{
+    "timestamp": "DD/MM/YYYY hh::mm::ss",
+    "productionOrderId": 23,
+    "orderPriority": "normal",
+    "sourcePointId": 0,
+    "destinationPointId": 1,
+    "requiredOutputTime": "DD/MM/YYYY hh::mm::ss"
+}

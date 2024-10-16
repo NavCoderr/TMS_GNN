@@ -1,0 +1,7 @@
+x_signal = "X"
+y_signal = "Y"
+heading_signal = "Heading"
+source_node_signal = "Source node"
+destination_node_signal = "Destination node"
+battery_signal = "Battery"
+state_signal = "State"

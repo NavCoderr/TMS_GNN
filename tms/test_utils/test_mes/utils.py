@@ -1,0 +1,1 @@
+MES_PROMPT = "TEST_MES> "
